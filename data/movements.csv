@@ -1,0 +1,9 @@
+date,item_id,item_name,movement,quantity,note
+2026-11-01,EL001,Resistor 1kΩ,IN,100,Opening stock
+2026-11-04,EL002,LED Red 5mm,OUT,12,Lab practical
+2026-11-08,EL004,Breadboard,OUT,3,Project issue
+2026-11-10,EL003,BC547 Transistor,IN,20,New purchase
+2026-11-13,EL009,Arduino Uno,OPENING,5,New item added
+2026-11-13,EL009,Arduino Uno,OUT,5,
+2026-11-13,EL009,Arduino Uno,OUT,10,
+2026-11-13,EL009,Arduino Uno,IN,25,

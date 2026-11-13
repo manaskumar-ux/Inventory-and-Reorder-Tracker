@@ -1,0 +1,10 @@
+item_id,name,category,quantity,reorder_level,unit_price,updated_on
+EL001,Resistor 1kΩ,Passive,120,30,0.5,2026-11-13
+EL002,LED Red 5mm,Semiconductor,18,25,1.5,2026-11-13
+EL003,BC547 Transistor,Semiconductor,42,15,3.0,2026-11-13
+EL004,Breadboard,Tools,7,10,85.0,2026-11-13
+EL005,Jumper Wire Set,Tools,0,5,35.0,2026-11-13
+EL006,Capacitor 100µF,Passive,55,20,2.0,2026-11-13
+EL007,IC 555 Timer,IC,12,10,18.0,2026-11-13
+EL008,Diode 1N4007,Semiconductor,28,20,1.0,2026-11-13
+EL009,Arduino Uno,Microcontroller,25,10,450.0,2026-11-13
